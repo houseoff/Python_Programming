@@ -55,4 +55,4 @@ def task4():
         print(f"Сдвиг вправо на {shift} эл.: ", end='')
         shift = len_lst - shift
     
-    print(lst[shift:len_lst] + lst[0:shift])
+    print(lst[shift:] + lst[:shift])
