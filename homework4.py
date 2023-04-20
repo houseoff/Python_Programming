@@ -89,7 +89,5 @@ def task4():
     dict_1 = parse_to_dict(expr_1)
     dict_2 = parse_to_dict(expr_2)
 
-    
-
     result_lst = sum_expr(dict_1, dict_2)
     print_expr(result_lst)
