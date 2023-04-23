@@ -7,7 +7,6 @@ def subtask1(n: int):
             factorial *= i
     return factorial
 
-
 def task1():
     n = int(input("Введите число: "))
     lst = []
