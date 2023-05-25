@@ -43,5 +43,4 @@ def task3(start_numerator: int, end_denominator: int):
                 if is_mutually_simple(i, j) and i < j:
                     print(f'{i}/{j}')
 
-
-
+task3(1, 11)
