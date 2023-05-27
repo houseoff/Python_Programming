@@ -1,0 +1,14 @@
+2023-05-27 13:58:18.233997 Evgenii Khaustov None: BOT: Пользователь уже зарегистрирован
+2023-05-27 13:58:41.474996 Evgenii Khaustov None: BOT: Пользователь уже зарегистрирован
+2023-05-27 14:44:29.182063 Evgenii Khaustov None: BOT: Админ сделал рассылку
+2023-05-27 14:45:05.152063 Evgenii Khaustov None: BOT: Админ сделал рассылку
+2023-05-27 18:30:06.156817 Evgenii Khaustov None: sdfsfggdfh
+2023-05-27 21:14:53.200787 Evgenii Khaustov None: BOT: Задан вопрос в тех. поддержку
+2023-05-27 21:34:23.116647 Evgenii Khaustov None: BOT: Задан вопрос в тех. поддержку
+2023-05-27 21:46:52.747241 Evgenii Khaustov None: BOT: Задан вопрос в тех. поддержку
+2023-05-27 21:48:52.043547 Evgenii Khaustov None: BOT: Задан вопрос в тех. поддержку
+2023-05-27 21:52:30.108405 Evgenii Khaustov None: BOT: Задан вопрос в тех. поддержку
+2023-05-27 21:58:25.468530 Evgenii Khaustov None: BOT: Попытка регистрации
+2023-05-27 21:58:26.062529 Evgenii Khaustov None: BOT: Регистрация прошла успешно
+2023-05-27 21:58:51.293530 Evgenii Khaustov None: BOT: Пользователь уже зарегистрирован
+2023-05-27 22:02:10.308851 Evgenii Khaustov None: BOT: Задан вопрос в тех. поддержку
